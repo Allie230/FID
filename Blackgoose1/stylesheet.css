@@ -1,0 +1,9 @@
+@import url (https://fonts.google.com/specimen/Josefin+Sans);
+@import url (https://fonts.google.com/specimen/Baloo+Chettan);
+@import url (https://fonts.google.com/specimen/Abril+Fatface);
+h1, h2 {color: #a93226; margin: 1em 3em;}
+h1 {text-align: center; font-family: Abril Flatface, sans-serif; font-weight: normal; text-transform: uppercase; border-bottom: 1px solid #57b1dc; margin-top: 30px;}
+h2 {font-family: Baloo Chettan, sans-serif; font-size: 1em;}
+p {margin: 2em 6em; font-family: Josefin Sans, sans-serif;}
+p strong {color: #a93226}
+medium {color: #999;}
